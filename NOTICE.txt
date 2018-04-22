@@ -1,0 +1,8 @@
+sliding-hyperloglog
+Copyright 2018 Featurespace Ltd
+
+
+This contains code adapted from:
+
+stream-lib (https://github.com/addthis/stream-lib/)
+Copyright 2016 AddThis
